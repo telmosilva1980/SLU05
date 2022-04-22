@@ -2,3 +2,4 @@ pao 1
 leite 2
 manteiga 3
 ovos 4
+morangos 5
